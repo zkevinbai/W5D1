@@ -1,0 +1,9 @@
+.sections-nav {
+    display: flex;
+    justify-content: space-evenly
+}
+
+.sections-nav li:hover {
+    text-decoration: underline;
+    background: rgb(235, 234, 234)
+}
